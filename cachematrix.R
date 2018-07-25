@@ -1,3 +1,7 @@
+## R Programming - Assignment 2
+## Sabrina Simon
+## July 2018
+
 ## Simulating what internet browsers do to avoid loading repeatedly the same
 ## pages accessed by the user, we're going to build two functions that work
 ## together in order to set the S3 objects and check for the existence of the
